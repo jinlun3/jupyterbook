@@ -1,0 +1,4 @@
+#!/bin/bash
+# 安装 MyST 插件和 Jupyter Lab 扩展
+pip install myst-parser jupyterlab-myst
+jupyter labextension install jupyterlab-myst
