@@ -1,2 +1,4 @@
-bibtex_bibfiles:
-  - C3.bib  # 指定自定义的 .bib 文件路径
+language: zh
+numfig: true
+numfig_format:
+  figure: "图 %s"     # 将 "Figure" 改为 "图"
