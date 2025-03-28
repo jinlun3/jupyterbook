@@ -1,4 +1,2 @@
-language: zh
-numfig: true
-numfig_format:
-  figure: "图 %s"     # 将 "Figure" 改为 "图"
+bibtex_bibfiles:
+  - references.bib
