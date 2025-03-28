@@ -1,2 +1,2 @@
 bibtex_bibfiles:
-  - path/to/myrefs.bib  # 指定自定义的 .bib 文件路径
+  - C3.bib  # 指定自定义的 .bib 文件路径
