@@ -1,7 +1,1 @@
-sphinx:
-  config:
-    bibtex_bibfiles:
-      - references.bib
-    extensions:
-      - myst_nb
-      - sphinxcontrib.bibtex
+
