@@ -2,5 +2,3 @@ numpy
 scipy
 cvxpy
 matplotlib
-pybtex
-sphinxcontrib-bibtex==2.*
